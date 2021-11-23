@@ -23,6 +23,8 @@ end)
 QBCore.Functions.CreateUseableItem('suppressor', function(source, item)
     TriggerClientEvent('weapons:client:EquipAttachment', source, item, 'suppressor')
 end)
+
+
  5. And then youre done :) Good Luck
 
 
