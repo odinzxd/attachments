@@ -158,7 +158,7 @@ WeaponAttachments = {
         ['extendedclip'] = {
             component = 'COMPONENT_PISTOL_CLIP_02',
             label = 'Extended Clip',
-            item = 'pistol_extendedclip',
+            item = 'extendedclip',
             type = 'clip',
         },
         ['flashlight'] = {
@@ -187,7 +187,7 @@ WeaponAttachments = {
         ['extendedclip'] = {
             component = 'COMPONENT_COMBATPISTOL_CLIP_02',
             label = 'Extended Clip',
-            item = 'combatpistol_extendedclip',
+            item = 'extendedclip',
             type = 'clip',
         },
         ['flashlight'] = {
@@ -216,7 +216,7 @@ WeaponAttachments = {
         ['extendedclip'] = {
             component = 'COMPONENT_APPISTOL_CLIP_02',
             label = 'Extended Clip',
-            item = 'appistol_extendedclip',
+            item = 'extendedclip',
             type = 'clip',
         },
         ['flashlight'] = {
@@ -245,7 +245,7 @@ WeaponAttachments = {
         ['extendedclip'] = {
             component = 'COMPONENT_PISTOL50_CLIP_02',
             label = 'Extended Clip',
-            item = 'pistol50_extendedclip',
+            item = 'extendedclip',
             type = 'clip',
         },
         ['flashlight'] = {
@@ -293,7 +293,7 @@ WeaponAttachments = {
         ['extendedclip'] = {
             component = 'COMPONENT_SNSPISTOL_CLIP_02',
             label = 'Extended Clip',
-            item = 'snspistol_extendedclip',
+            item = 'extendedclip',
             type = 'clip',
         },
         ['grip'] = {
@@ -312,7 +312,7 @@ WeaponAttachments = {
         ['extendedclip'] = {
             component = 'COMPONENT_HEAVYPISTOL_CLIP_02',
             label = 'Extended Clip',
-            item = 'heavypistol_extendedclip',
+            item = 'extendedclip',
             type = 'clip',
         },
         ['flashlight'] = {
@@ -341,7 +341,7 @@ WeaponAttachments = {
         ['extendedclip'] = {
             component = 'COMPONENT_VINTAGEPISTOL_CLIP_02',
             label = 'Extended Clip',
-            item = 'vintagepistol_extendedclip',
+            item = 'extendedclip',
             type = 'clip',
         },
         ['suppressor'] = {
@@ -362,7 +362,7 @@ WeaponAttachments = {
         ['extendedclip'] = {
             component = 'COMPONENT_MICROSMG_CLIP_02',
             label = 'Extended Clip',
-            item = 'microsmg_extendedclip',
+            item = 'extendedclip',
             type = 'clip',
         },
         ['flashlight'] = {
@@ -396,7 +396,7 @@ WeaponAttachments = {
         ['extendedclip'] = {
             component = 'COMPONENT_SMG_CLIP_02',
             label = 'Extended Clip',
-            item = 'smg_extendedclip',
+            item = 'extendedclip',
             type = 'clip',
         },
         ['drum'] = {
@@ -436,7 +436,7 @@ WeaponAttachments = {
         ['extendedclip'] = {
             component = 'COMPONENT_ASSAULTSMG_CLIP_02',
             label = 'Extended Clip',
-            item = 'assaultsmg_extendedclip',
+            item = 'extendedclip',
             type = 'clip',
         },
         ['flashlight'] = {
@@ -470,7 +470,7 @@ WeaponAttachments = {
         ['extendedclip'] = {
             component = 'COMPONENT_MINISMG_CLIP_02',
             label = 'Extended Clip',
-            item = 'minismg_extendedclip',
+            item = 'extendedclip',
             type = 'clip',
         },
     },
@@ -484,7 +484,7 @@ WeaponAttachments = {
         ['extendedclip'] = {
             component = 'COMPONENT_MACHINEPISTOL_CLIP_02',
             label = 'Extended Clip',
-            item = 'machinepistol_extendedclip',
+            item = 'extendedclip',
             type = 'clip',
         },
         ['drum'] = {
@@ -509,7 +509,7 @@ WeaponAttachments = {
         ['extendedclip'] = {
             component = 'COMPONENT_COMBATPDW_CLIP_02',
             label = 'Extended Clip',
-            item = 'combatpdw_extendedclip',
+            item = 'extendedclip',
             type = 'clip',
         },
         ['drum'] = {
@@ -569,7 +569,7 @@ WeaponAttachments = {
         ['extendedclip'] = {
             component = 'COMPONENT_ASSAULTSHOTGUN_CLIP_02',
             label = 'Extended Clip',
-            item = 'assaultshotgun_extendedclip',
+            item = 'extendedclip',
             type = 'clip',
         },
         ['flashlight'] = {
@@ -615,7 +615,7 @@ WeaponAttachments = {
         ['extendedclip'] = {
             component = 'COMPONENT_HEAVYSHOTGUN_CLIP_02',
             label = 'Extended Clip',
-            item = 'heavyshotgun_extendedclip',
+            item = 'extendedclip',
             type = 'clip',
         },
         ['drum'] = {
@@ -663,7 +663,7 @@ WeaponAttachments = {
         ['extendedclip'] = {
             component = 'COMPONENT_ASSAULTRIFLE_CLIP_02',
             label = 'Extended Clip',
-            item = 'assaultrifle_extendedclip',
+            item = 'extendedclip',
             type = 'clip',
         },
         ['drum'] = {
@@ -708,7 +708,7 @@ WeaponAttachments = {
         ['extendedclip'] = {
             component = 'COMPONENT_CARBINERIFLE_CLIP_02',
             label = 'Extended Clip',
-            item = 'carbinerifle_extendedclip',
+            item = 'extendedclip',
             type = 'clip',
         },
         ['drum'] = {
@@ -753,7 +753,7 @@ WeaponAttachments = {
         ['extendedclip'] = {
             component = 'COMPONENT_ADVANCEDRIFLE_CLIP_02',
             label = 'Extended Clip',
-            item = 'advancedrifle_extendedclip',
+            item = 'extendedclip',
             type = 'clip',
         },
         ['flashlight'] = {
@@ -792,7 +792,7 @@ WeaponAttachments = {
         ['extendedclip'] = {
             component = 'COMPONENT_SPECIALCARBINE_CLIP_02',
             label = 'Extended Clip',
-            item = 'specialcarbine_extendedclip',
+            item = 'extendedclip',
             type = 'clip',
         },
         ['drum'] = {
@@ -837,7 +837,7 @@ WeaponAttachments = {
         ['extendedclip'] = {
             component = 'COMPONENT_BULLPUPRIFLE_CLIP_02',
             label = 'Extended Clip',
-            item = 'bullpuprifle_extendedclip',
+            item = 'extendedclip',
             type = 'clip',
         },
         ['flashlight'] = {
@@ -876,7 +876,7 @@ WeaponAttachments = {
         ['extendedclip'] = {
             component = 'COMPONENT_COMPACTRIFLE_CLIP_02',
             label = 'Extended Clip',
-            item = 'compactrifle_extendedclip',
+            item = 'extendedclip',
             type = 'clip',
         },
         ['drum'] = {
@@ -897,7 +897,7 @@ WeaponAttachments = {
         ['extendedclip'] = {
             component = 'COMPONENT_GUSENBERG_CLIP_02',
             label = 'Extended Clip',
-            item = 'gusenberg_extendedclip',
+            item = 'extendedclip',
             type = 'clip',
         },                               
     },
@@ -960,7 +960,7 @@ WeaponAttachments = {
         ['extendedclip'] = {
             component = 'COMPONENT_MARKSMANRIFLE_CLIP_02',
             label = 'Extended Clip',
-            item = 'marksmanrifle_extendedclip',
+            item = 'extendedclip',
             type = 'clip',
         },
         ['flashlight'] = {
@@ -989,4 +989,9 @@ WeaponAttachments = {
             item = 'marksmanrifle_luxuryfinish',
         },                              
     },
+}
+
+Config.Weapons = {
+    [`WEAPON_UNARMED`] = {model = `WEAPON_UNARMED`, modifier = 0.2, disableCritical = true},
+    [`WEAPON_SNIPERRIFLE`] = {model = `WEAPON_SNIPERRIFLE`, modifier = 0.0, disableCritical = true},
 }
